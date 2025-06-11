@@ -1,7 +1,7 @@
 # My Django Project
 
 ## Overview
-This project implements a Django application designed to manage and invalidate cache intelligently. It provides a set of tools and utilities to enhance caching strategies within Django applications.
+This project implements a package designed to manage and invalidate cache intelligently. It provides a set of tools and utilities to enhance caching strategies within Django applications.
 
 ## Installation
 To install the project, clone the repository and install the required dependencies:

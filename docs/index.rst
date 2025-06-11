@@ -1,1 +1,1 @@
-pip install smart_cache_invalidator
+pip install cache_invalidator

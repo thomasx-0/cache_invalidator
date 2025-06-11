@@ -1,8 +1,8 @@
 # Integration tests for the smart_cache_invalidator application
 
 from django.test import TestCase
-from smart_cache_invalidator.models import YourModel  # Replace with your actual model
-from smart_cache_invalidator.utils import some_utility_function  # Replace with your actual utility function
+from cache_invalidator.models import YourModel  # Replace with your actual model
+from cache_invalidator.utils import some_utility_function  # Replace with your actual utility function
 
 class IntegrationTestCase(TestCase):
     

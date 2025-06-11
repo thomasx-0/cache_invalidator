@@ -2,9 +2,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'My Django Project'
-copyright = '2023, Your Name'
-author = 'Your Name'
+project = 'Cache Invalidation Manager'
+copyright = '2023, Thomas Pennant'
+author = 'Thomas Pennant'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1.0'

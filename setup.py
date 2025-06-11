@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='smart_cache_invalidator',
+    name='cache_invalidator',
     version='0.1.0',
-    description='A Django app for smart cache invalidation',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/smart_cache_invalidator',
+    description='A  pacakge for smart cache invalidation for Django applications',
+    author='Thomas Pennant',
+    author_email='pennqo@gmail.com',
+    url='https://github.com/thomasx-0/cache_invalidator.git',
     packages=find_packages(),
     install_requires=[
         'Django>=3.0',

@@ -1,5 +1,5 @@
 import pytest
-from smart_cache_invalidator.utils import invalidate_cache
+from cache_invalidator.utils import invalidate_cache
 
 def test_invalidate_cache():
     # Assuming we have a cache set up and a key to invalidate
