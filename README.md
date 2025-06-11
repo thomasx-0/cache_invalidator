@@ -13,12 +13,12 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-After installation, you can include the `smart_cache_invalidator` app in your Django project by adding it to the `INSTALLED_APPS` list in your Django settings:
+After installation, you can include the `cache_invalidator` app in your Django project by adding it to the `INSTALLED_APPS` list in your Django settings:
 
 ```python
 INSTALLED_APPS = [
     ...
-    'smart_cache_invalidator',
+    'cache_invalidator',
 ]
 ```
 
