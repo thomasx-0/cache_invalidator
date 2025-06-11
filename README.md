@@ -1,4 +1,4 @@
-# My Django Project
+# Smart Cache Invalidator
 
 ## Overview
 This project implements a package designed to manage and invalidate cache intelligently. It provides a set of tools and utilities to enhance caching strategies within Django applications.
